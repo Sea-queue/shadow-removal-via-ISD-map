@@ -12,7 +12,7 @@ We aim to recover the true scene appearance by eliminating cast shadows while pr
 
 ---
 
-## 🎬 Log Chromiticity Image using ISD Map
+## 🎬 Log Chromaticity Image via ISD Map
 <p align="center">
   <img src="images/12_shah_haard_041.png" alt="img1" width="90%" />
 </p>
