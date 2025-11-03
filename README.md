@@ -1,6 +1,6 @@
 # Shadow Removal via Illuminant Spectral Direction(ISD) estimation
 
-We aim to recover the true scene appearance by eliminating cast shadows while preserving material color. This would improve the downstream computer vision tasks such as autonomous driving.
+We aim to recover the true scene appearance by eliminating cast shadows while preserving material color. This would improve the downstream computer vision tasks such as autonomous driving and robotic vision.
 
 ---
 
